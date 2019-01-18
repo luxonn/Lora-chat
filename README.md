@@ -4,6 +4,7 @@ Firmware for Heltec ESP32 LoRa boards (w/ the onboard OLED)
 A tweaked out version from : https://github.com/unprovable/LoRaChat. Added connection to the phone (serial terminal) by Bluetooth.
 
 Source code for my LoRa chat|sms project. 
+
 Current features:
 Single to many messages.
 Simple interface by serial terminal android app.
