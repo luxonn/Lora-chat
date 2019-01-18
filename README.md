@@ -11,4 +11,4 @@ Simple interface by serial terminal android app.
 
 Features I'll be adding:
 Better security, (currently it's open).
-Retransmit. Mash network.
+Retransmit. Mash network. Addressing.
