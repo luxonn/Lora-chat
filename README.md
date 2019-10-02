@@ -18,7 +18,7 @@ Buzzer income messagees.
 
 video link: https://www.youtube.com/watch?v=H42atKsWvzU&feature=youtu.be
 
-Now I switched to a project in which my wishes have already been realized. I hope the author of the project will open the source code so that you can develop the project further. I see great prospects. If Lorawan is an Internet-based centralized solution, then Lorames is locally centralized, but in the future, if the project is open source, it is possible to combine local points via the Internet and communication will be possible around the world. Dreams))
+Now I switched to a project in which my wishes have already been realized. I hope the author of the project will open the source code so that you can develop the project further. I see great prospects. If Lorawan is an Internet-based centralized solution, then Loramesh is locally centralized, but in the future, if the project is open source, it is possible to combine local points via the Internet and communication will be possible around the world. Dreams))
 
 https://github.com/luxonn/ripple
 
